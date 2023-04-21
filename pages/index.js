@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Lyvan Nguyen's World!" />
         <p className="description">
-          "We're just getting started..."<code>none</code>
+          We're just getting started...<code>code time!</code>
         </p>
       </main>
 
