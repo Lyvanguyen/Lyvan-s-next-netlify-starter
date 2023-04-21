@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Lyvan's World!" />
+        <Header title="Welcome to Lyvan Nguyen's World!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          "We're just getting started..."<code>none</code>
         </p>
       </main>
 
